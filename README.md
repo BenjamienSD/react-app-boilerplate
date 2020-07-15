@@ -1,1 +1,1 @@
-# react-app-boilerplate
+# bare bones react-app boilerplate
